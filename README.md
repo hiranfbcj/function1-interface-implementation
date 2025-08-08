@@ -1,1 +1,1 @@
-<img src="https://github.com/hiranfbcj/function1-interface-implementation/blob/main/readme.png" width=80>
+<img src="https://github.com/hiranfbcj/function1-interface-implementation/blob/main/readme.png" width=70>
